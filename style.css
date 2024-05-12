@@ -1,0 +1,13 @@
+h1 {
+    color:crimson;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    color:aqua;
+    font-size: uppercase;
+}
+body {
+    background: image #000;;
+}
